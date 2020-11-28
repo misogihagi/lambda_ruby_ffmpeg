@@ -32,10 +32,16 @@ post
 
 and you can find
 
-> s3://<bucket>:<key>/00000.ts
-> s3://<bucket>:<key>/00001.ts
-> s3://<bucket>:<key>/00002.ts
-> s3://<bucket>:<key>/00003.ts
-> ...
-> playlist.m3u8
+s3://<bucket>:<key>/00000.ts
+
+s3://<bucket>:<key>/00001.ts
+
+s3://<bucket>:<key>/00002.ts
+
+s3://<bucket>:<key>/00003.ts
+
+...
+
+playlist.m3u8
+
 
